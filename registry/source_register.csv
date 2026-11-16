@@ -1,6 +1,6 @@
 entity_id,nama_entitas,kode,sektor,subkelompok,status_listing,kanal_sumber,periode_target,jenis_dokumen_dicari,jumlah_dok_target,jumlah_dok_terkumpul,url_sumber,tanggal_akses,versi_dokumen,audited,sha256,lisensi_hak_pakai,catatan
 E01,Bank Central Asia,BBCA,perbankan,bank besar,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan,16,19,,,,,,,
-E02,Bank Rakyat Indonesia,BBRI,perbankan,bank besar,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan,16,0,,,,,,,
+E02,Bank Rakyat Indonesia,BBRI,perbankan,bank besar,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan,16,19,,,,,,,
 E03,Bank Mandiri,BMRI,perbankan,bank besar,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan,16,0,,,,,,,
 E04,Bank Negara Indonesia,BBNI,perbankan,bank besar,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan,16,0,,,,,,,
 E05,Bank Syariah Indonesia,BRIS,perbankan,bank menengah (syariah),listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan,16,0,,,,,,,istilah pendapatan bagi hasil
