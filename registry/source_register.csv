@@ -1,0 +1,31 @@
+entity_id,nama_entitas,kode,sektor,subkelompok,status_listing,kanal_sumber,periode_target,jenis_dokumen_dicari,jumlah_dok_target,jumlah_dok_terkumpul,url_sumber,tanggal_akses,versi_dokumen,audited,sha256,lisensi_hak_pakai,catatan
+E01,Bank Central Asia,BBCA,perbankan,bank besar,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan,16,19,,,,,,,
+E02,Bank Rakyat Indonesia,BBRI,perbankan,bank besar,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan,16,0,,,,,,,
+E03,Bank Mandiri,BMRI,perbankan,bank besar,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan,16,0,,,,,,,
+E04,Bank Negara Indonesia,BBNI,perbankan,bank besar,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan,16,0,,,,,,,
+E05,Bank Syariah Indonesia,BRIS,perbankan,bank menengah (syariah),listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan,16,0,,,,,,,istilah pendapatan bagi hasil
+E06,Bank CIMB Niaga,BNGA,perbankan,bank menengah,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan,16,0,,,,,,,
+E07,Bank Tabungan Negara,BBTN,perbankan,bank menengah,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan,16,0,,,,,,,
+E08,Bank Danamon Indonesia,BDMN,perbankan,bank menengah,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan,16,0,,,,,,,
+E09,Bank OCBC NISP,NISP,perbankan,bank menengah,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan,16,0,,,,,,,
+E10,Bank Pan Indonesia,PNBN,perbankan,bank menengah,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan,16,0,,,,,,,
+E11,Bank Mega,MEGA,perbankan,bank menengah,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan,16,0,,,,,,,
+E12,Bank Pembangunan Daerah Jawa Tengah (Bank Jateng),-,perbankan,BPD,non-listed,situs_entitas,2022-2025,publikasi laporan keuangan triwulanan; laporan tahunan,16,0,,,,,,,tidak ada kode saham; cek IPO terbaru
+E13,Bank Pembangunan Daerah Jawa Timur (Bank Jatim),BJTM,perbankan,BPD,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan,16,0,,,,,,,
+E14,Bank BTPN Syariah,BTPS,perbankan,niche,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan,16,0,,,,,,,
+E15,Bank Jago,ARTO,perbankan,digital,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan,16,0,,,,,,,
+E16,Adaro Energy Indonesia,ADRO,pertambangan,batu bara,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan; laporan produksi,16,0,,,,,,,aksi korporasi pemisahan usaha 2024 (cek AADI); periode tidak sebanding
+E17,Bukit Asam,PTBA,pertambangan,batu bara,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan; laporan produksi,16,0,,,,,,,
+E18,Indo Tambangraya Megah,ITMG,pertambangan,batu bara,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan; laporan produksi,16,0,,,,,,,
+E19,Bayan Resources,BYAN,pertambangan,batu bara,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan; laporan produksi,16,0,,,,,,,
+E20,Harum Energy,HRUM,pertambangan,batu bara/nikel,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan; laporan produksi,16,0,,,,,,,
+E21,Indika Energy,INDY,pertambangan,batu bara,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan; laporan produksi,16,0,,,,,,,
+E22,Bumi Resources,BUMI,pertambangan,batu bara,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan; laporan produksi,16,0,,,,,,,
+E23,Alamtri Minerals / Adaro Minerals,ADMR,pertambangan,batu bara metalurgi,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan; laporan produksi,16,0,,,,,,,
+E24,Aneka Tambang,ANTM,pertambangan,nikel/emas,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan; laporan produksi,16,0,,,,,,,
+E25,Vale Indonesia,INCO,pertambangan,nikel,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan; laporan produksi,16,0,,,,,,,cek status/perubahan nama
+E26,Merdeka Copper Gold,MDKA,pertambangan,emas/tembaga,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan; laporan produksi,16,0,,,,,,,
+E27,Timah,TINS,pertambangan,timah,listed,IDX,2022-2025,laporan keuangan Q1/Q2/Q3/tahunan; laporan tahunan; laporan produksi,16,0,,,,,,,
+E28,Merdeka Battery Materials,MBMA,pertambangan,nikel,listed,IDX,2022-2025,laporan keuangan; laporan tahunan; laporan produksi,12,0,,,,,,,"IPO 2023, dokumen lebih sedikit"
+E29,Trimegah Bangun Persada,NCKL,pertambangan,nikel,listed,IDX,2022-2025,laporan keuangan; laporan tahunan; laporan produksi,12,0,,,,,,,"IPO 2023, dokumen lebih sedikit"
+E30,Amman Mineral Internasional,AMMN,pertambangan,tembaga/emas,listed,IDX,2022-2025,laporan keuangan; laporan tahunan; laporan produksi,12,0,,,,,,,"IPO 2023, dokumen lebih sedikit"

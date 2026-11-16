@@ -1,0 +1,16 @@
+# Kunci versi setelah lingkungan Kaggle diuji (pip freeze), lalu tulis di sini.
+pandas
+pdfplumber
+pymupdf
+rank-bm25
+sentence-transformers
+faiss-cpu
+transformers
+peft
+bitsandbytes
+accelerate
+datasets
+scikit-learn
+pyyaml
+fastapi
+uvicorn

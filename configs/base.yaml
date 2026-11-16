@@ -1,0 +1,32 @@
+# Konfigurasi dasar. Nilai bertanda TODO diputuskan lewat ADR sebelum eksperimen.
+seed: 42
+
+model:
+  base_generator: TODO   # satu model yang SAMA untuk B0-B5 (kelas 0.5B-1.5B instruct)
+  quantization: 4bit     # QLoRA di Kaggle
+  sampling:
+    temperature: 0.0     # tetap untuk semua konfigurasi
+    top_p: 1.0
+    max_new_tokens: 512
+
+retrieval:
+  embedding_model: TODO
+  reranker: TODO
+  vector_store: TODO
+  chunking: fixed        # fixed | heading-aware | hierarchical (A1)
+  top_k: 5
+  context_budget_tokens: 2000   # A7: bandingkan 2000 vs 6000
+
+adaptive:
+  max_retries: 2         # B4: retry retrieval terbatas
+
+output_contract:
+  verdicts: [SUPPORTED, REFUTED, NOT_ENOUGH_EVIDENCE]
+  fields: [verdict, claims, evidence, as_of, abstain_reason]
+
+paths:
+  raw: data/raw
+  processed: data/processed
+  registry: registry
+  benchmark: benchmark
+  runs: runs
