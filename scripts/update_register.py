@@ -59,6 +59,17 @@ def write_csv(path: Path, rows, fields):
         writer.writerows(rows)
 
 
+def load_hints(reg_dir: Path):
+    """Baca saran status audit dari registry/rename_log.csv (dibuat organize_inbox.py)."""
+    hints = {}
+    log = reg_dir / "rename_log.csv"
+    if log.exists():
+        with log.open(newline="", encoding="utf-8") as f:
+            for r in csv.DictReader(f):
+                hints[r["path_baru"]] = r
+    return hints
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--raw", default="data/raw", help="folder dokumen mentah")
@@ -79,6 +90,7 @@ def main() -> int:
     known = {e["entity_id"] for e in entities}
     old_rows, _ = read_csv(docs_csv)
     old = {r["path"]: r for r in old_rows}
+    hints = load_hints(reg_dir)
 
     new_rows, by_hash, warnings = [], {}, []
     files = sorted(p for p in raw.rglob("*") if p.is_file() and p.suffix.lower() in EXTENSIONS)
@@ -103,6 +115,12 @@ def main() -> int:
         by_hash.setdefault(digest, rel)
 
         row = {k: prev.get(k, "") for k in DOC_FIELDS}
+        hint = hints.get(rel)
+        if hint and not row["audited"]:
+            # saran otomatis dari organize_inbox.py; tetap dicek sekilas oleh manusia
+            row["audited"] = hint["audited_hint"]
+            if not row["catatan"]:
+                row["catatan"] = "otomatis: " + hint["dasar"]
         row.update({
             "doc_id": prev.get("doc_id") or "",
             "entity_id": ent, "path": rel,

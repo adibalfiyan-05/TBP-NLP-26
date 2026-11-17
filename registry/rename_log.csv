@@ -1,0 +1,220 @@
+waktu,file_lama,path_baru,audited_hint,dasar
+2026-11-18T05:20:11,data\raw\E04\BNI-Financial-Statement-Q12024-ID.pdf,E04/E04_2024-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E04\Final-LFR - BNI 31 Desember 2025.pdf,E04/E04_2025-FY_laporan-keuangan.pdf,ya,"laporan tahunan (label IDX: Audit); teks laporan auditor tidak terdeteksi, cek sekilas"
+2026-11-18T05:20:11,data\raw\E04\FINAL-LKFS BNI_Bilingual_31_DES_2022_Signed.pdf,E04/E04_2022-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E04\Final_LKFS BNI_Bilingual_30_JUN_2022_signed.pdf,E04/E04_2022-Q2_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan pada laporan interim
+2026-11-18T05:20:11,data\raw\E04\FINAL_LKFS BNI_Bilingual_31_Dec_2024_combined.pdf,E04/E04_2024-FY_laporan-keuangan.pdf,ya,"laporan tahunan (label IDX: Audit); teks laporan auditor tidak terdeteksi, cek sekilas"
+2026-11-18T05:20:11,data\raw\E04\LFR - BNI 30 September 2026_Released.pdf,E04/E04_2026-Q3_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E04\LFR - BNI 31 Maret 2026_Released.pdf,E04/E04_2026-Q1_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E04\LFR_BNI 30 June 2026.pdf,E04/E04_2026-Q2_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E04\LKFS BNI_Bilingual_30 JUN 24_RELEASED.pdf,E04/E04_2024-Q2_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E04\LKFS BNI_Bilingual_30_JUN_2023_Released.pdf,E04/E04_2023-Q2_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E04\LKFS BNI_Bilingual_30_Jun_2025_Released.pdf,E04/E04_2025-Q2_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E04\LKFS BNI_Bilingual_30_SEP_2022-Released.pdf,E04/E04_2022-Q3_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E04\LKFS BNI_Bilingual_30_Sep_2023_Released.pdf,E04/E04_2023-Q3_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E04\LKFS BNI_Bilingual_30_Sep_2024_Released.pdf,E04/E04_2024-Q3_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E04\LKFS BNI_Bilingual_30_Sep_2025_Released.pdf,E04/E04_2025-Q3_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E04\LKFS BNI_Bilingual_31_MAR_2022_Released.pdf,E04/E04_2022-Q1_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E04\LKFS BNI_Bilingual_31_MAR_2023_Released.pdf,E04/E04_2023-Q1_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E04\LKFS BNI_Bilingual_31_Mar_2025_Released.pdf,E04/E04_2025-Q1_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E04\LKFS BNI_Billingual_31_Des_2023.pdf,E04/E04_2023-FY_laporan-keuangan.pdf,ya,"laporan tahunan (label IDX: Audit); teks laporan auditor tidak terdeteksi, cek sekilas"
+2026-11-18T05:20:11,data\raw\E05\Bank Syariah Indonesia Tbk 30Jun26.pdf,E05/E05_2026-Q2_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan pada laporan interim
+2026-11-18T05:20:11,data\raw\E05\bank syariah indonesia tbk_billingual_30 juni 2025.pdf,E05/E05_2025-Q2_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan pada laporan interim
+2026-11-18T05:20:11,data\raw\E05\LF PT Bank Syariah Indonesia 30 Sep 2024 Final.pdf,E05/E05_2024-Q3_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E05\LF PT Bank Syariah Indonesia Tbk 30 Jun 24.pdf,E05/E05_2024-Q2_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan pada laporan interim
+2026-11-18T05:20:11,data\raw\E05\LF PT BSI Tbk 31 Maret 2022.pdf,E05/E05_2022-Q1_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E05\LK PT Bank Syariah Indonesia Tbk 31 Maret 2025.pdf,E05/E05_2025-Q1_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E05\LKFS PT Bank Syariah Indonesia Tbk 30 Juni 2023.pdf,E05/E05_2023-Q2_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan pada laporan interim
+2026-11-18T05:20:11,data\raw\E05\LKFS PT Bank Syariah Indonesia Tbk 30 Sep 2023.pdf,E05/E05_2023-Q3_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E05\LKFS PT Bank Syariah Indonesia Tbk 30Jun2022.pdf,E05/E05_2022-Q2_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan pada laporan interim
+2026-11-18T05:20:11,data\raw\E05\LKFS PT Bank Syariah Indonesia Tbk 30Sep2022.pdf,E05/E05_2022-Q3_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E05\LKFS PT Bank Syariah Indonesia Tbk 31 Maret 2024.pdf,E05/E05_2024-Q1_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E05\PT Bank Syariah Indonesia Tbk 30 Sep 2025.pdf,E05/E05_2025-Q3_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E05\PT Bank Syariah Indonesia Tbk 31 Dec 22.pdf,E05/E05_2022-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E05\PT Bank Syariah Indonesia Tbk 31 Des 2023 (1).pdf,E05/E05_2023-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E05\PT Bank Syariah Indonesia Tbk 31 Desember 2024.pdf,E05/E05_2024-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E05\PT Bank Syariah Indonesia Tbk 31 Maret 2023 Final.pdf,E05/E05_2023-Q1_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E05\PT Bank Syariah Indonesia Tbk 31Mar26.pdf,E05/E05_2026-Q1_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan pada laporan interim
+2026-11-18T05:20:11,data\raw\E05\PT Bank Syariah Indonesia Tbk_31 Des 2025.pdf,E05/E05_2025-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E06\Bank CIMB Niaga - Consolidated FS - 0322.pdf,E06/E06_2022-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E06\Bank CIMB Niaga - Consolidated FS 30 Sept 2024.pdf,E06/E06_2024-Q3_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E06\BNGA - 31 Maret 2023.pdf,E06/E06_2023-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E06\BNGA - Jun26.pdf,E06/E06_2026-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E06\BNGA - Mar 25.pdf,E06/E06_2025-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E06\BNGA 30 Jun 25.pdf,E06/E06_2025-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E06\BNGA 30 Jun23.pdf,E06/E06_2023-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E06\BNGA 30 Juni 2024.pdf,E06/E06_2024-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E06\BNGA 31 Dec24.pdf,E06/E06_2024-FY_laporan-keuangan.pdf,ya,"laporan tahunan (label IDX: Audit); teks laporan auditor tidak terdeteksi, cek sekilas"
+2026-11-18T05:20:11,data\raw\E06\BNGA as of 30 Sep23.pdf,E06/E06_2023-Q3_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E06\BNGA as of 31 Dec23.pdf,E06/E06_2023-FY_laporan-keuangan.pdf,ya,"laporan tahunan (label IDX: Audit); teks laporan auditor tidak terdeteksi, cek sekilas"
+2026-11-18T05:20:11,data\raw\E06\BNGA as of 31 March 24.pdf,E06/E06_2024-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E06\BNGA Dec25 - LKFS Audited.pdf,E06/E06_2025-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E06\BNGA Mar26 - LKFS BNGA.pdf,E06/E06_2026-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E06\BNGA Sep26.pdf,E06/E06_2026-Q3_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E06\FS BNGA 31 Dec22.pdf,E06/E06_2022-FY_laporan-keuangan.pdf,ya,"laporan tahunan (label IDX: Audit); teks laporan auditor tidak terdeteksi, cek sekilas"
+2026-11-18T05:20:11,data\raw\E06\Laporan Keuangan Bapepam 30 Juni 2022 - BNGA.pdf,E06/E06_2022-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E06\Laporan Keuangan Bapepam Sept 2022 - Final.pdf,E06/E06_2022-Q3_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E06\LKFS BNGA Sep25.pdf,E06/E06_2025-Q3_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E07\4. btn billingual 31032022.pdf,E07/E07_2022-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E07\BTN billingual 30 Juni 2026 - release.pdf,E07/E07_2026-Q2_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E07\btn billingual 31des23.pdf,E07/E07_2023-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E07\BTN billingual_31 des 2025_released.pdf,E07/E07_2025-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E07\BTN Lapkeu Q1 2023 - IND.pdf,E07/E07_2023-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E07\BTN Lapkeu Q2 2022 bahasa.pdf,E07/E07_2022-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E07\btn_billingual.pdf,E07/E07_2023-Q3_laporan-keuangan.pdf,reviu,laporan reviu/tinjauan terbatas ditemukan
+2026-11-18T05:20:11,data\raw\E07\btn_billingual_30_jun_2025_released.pdf,E07/E07_2025-Q2_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan pada laporan interim
+2026-11-18T05:20:11,data\raw\E07\btn_billingual_30_sept_24_released.pdf,E07/E07_2024-Q3_laporan-keuangan.pdf,reviu,laporan reviu/tinjauan terbatas ditemukan
+2026-11-18T05:20:11,data\raw\E07\btn_billingual_30_september_25_released.pdf,E07/E07_2025-Q3_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E07\BTN_billingual_31 Mar 2026_release.pdf,E07/E07_2026-Q1_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E07\btn_billingual_31_des_2022_released.pdf,E07/E07_2022-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E07\btn_billingual_31_desember_24_released.pdf,E07/E07_2024-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E07\btn_billingual_31_maret 2025_released 4.pdf,E07/E07_2025-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E07\Lapkeu TW II 2023 IND.pdf,E07/E07_2023-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E07\laporan-keuangan-triwulan-I-2024.pdf,E07/E07_2024-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E08\Bapepam Q1 2022.pdf,E08/E08_2022-Q1_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E08\Bapepam Q1 2023_Final.pdf,E08/E08_2023-Q1_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E08\Bapepam Report - BDI - 30 Juni 2026.pdf,E08/E08_2026-Q2_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E08\Bapepam Report - BDI - 30 September 2026.pdf,E08/E08_2026-Q3_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E08\Bapepam Report BDI Q1 2025.pdf,E08/E08_2025-Q1_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E08\Bapepam Report BDI Q2 2025.pdf,E08/E08_2025-Q2_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E08\Bapepam Report Q1 2024_Final.pdf,E08/E08_2024-Q1_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E08\Bapepam Report Q2 2022_final.pdf,E08/E08_2022-Q2_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E08\Bapepam Report Q2 2023_FINAL.pdf,E08/E08_2023-Q2_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E08\Bapepam Report Q2 2024 - Final Signed.pdf,E08/E08_2024-Q2_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E08\Bapepam Report Q3 2023_FINAL SIGNED.pdf,E08/E08_2023-Q3_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E08\Final Report PT Bank Danamon Indonesia 2024.pdf,E08/E08_2024-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E08\Laporan Keuangan Q3 2022_Final.pdf,E08/E08_2022-Q3_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E08\PT Bank Danamon Indonesia Tbk - 30 Sep25 - Final.pdf,E08/E08_2025-Q3_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E08\PT Bank Danamon Indonesia Tbk - 31 Desember 2022.pdf,E08/E08_2022-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E08\PT Bank Danamon Indonesia Tbk - 31 Desember 2025.pdf,E08/E08_2025-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E08\PT Bank Danamon Indonesia Tbk - 31 March 2026.pdf,E08/E08_2026-Q1_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E08\PT Bank Danamon Indonesia Tbk Q3 2024 (FINAL).pdf,E08/E08_2024-Q3_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E08\PT Bank Danamon Indonesia Tbk-31Des2023.pdf,E08/E08_2023-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E09\FS PT BANK OCBC NISP Tbk 30 Jun 2022.pdf,E09/E09_2022-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E09\FS PT BANK OCBC NISP Tbk 30 Jun 2024 (unaudited).pdf,E09/E09_2024-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E09\FS PT Bank OCBC NISP Tbk 30 Jun 2025 (unaudited).pdf,E09/E09_2025-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E09\FS PT Bank OCBC NISP Tbk 30 Jun 2026 (unaudited).pdf,E09/E09_2026-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E09\FS PT BANK OCBC NISP Tbk 30 Juni 2023 (unaudited).pdf,E09/E09_2023-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E09\FS PT BANK OCBC NISP Tbk 30 Sep 2023 (unaudited).pdf,E09/E09_2023-Q3_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E09\FS PT BANK OCBC NISP Tbk 30 Sep 2024 (unaudited).pdf,E09/E09_2024-Q3_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E09\FS PT Bank OCBC NISP Tbk 30 Sep 2025 (unaudited).pdf,E09/E09_2025-Q3_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E09\FS PT Bank OCBC NISP Tbk 30 Sep 2026 (unaudited).pdf,E09/E09_2026-Q3_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E09\FS PT BANK OCBC NISP Tbk 30 Sept 2022.pdf,E09/E09_2022-Q3_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E09\FS PT Bank OCBC NISP Tbk 31 Dec 2022 (audited).pdf,E09/E09_2022-FY_laporan-keuangan.pdf,ya,"laporan tahunan (label IDX: Audit); teks laporan auditor tidak terdeteksi, cek sekilas"
+2026-11-18T05:20:11,data\raw\E09\FS PT Bank OCBC NISP Tbk 31 Dec 2023 (audited).pdf,E09/E09_2023-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E09\FS PT Bank OCBC NISP Tbk 31 Dec 2024 (audited).pdf,E09/E09_2024-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E09\FS PT Bank OCBC NISP Tbk 31 Dec 2025 (audited).pdf,E09/E09_2025-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E09\FS PT BANK OCBC NISP Tbk 31 Mar 2022.pdf,E09/E09_2022-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E09\FS PT BANK OCBC NISP Tbk 31 Mar 2024 (unaudited).pdf,E09/E09_2024-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E09\FS PT Bank OCBC NISP Tbk 31 Mar 2025 (unaudited).pdf,E09/E09_2025-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E09\FS PT Bank OCBC NISP Tbk 31 Mar 2026 (unaudited).pdf,E09/E09_2026-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E09\FS PT BANK OCBC NISP Tbk 31 Maret 2023 (unaudited).pdf,E09/E09_2023-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E10\Audited FS - PT Bank Panin Tbk 31 Des 22.pdf,E10/E10_2022-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E10\Buku Lap Keu 30 Juni 26.pdf,E10/E10_2026-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E10\Buku Lap Keu 31 Mar 26.pdf,E10/E10_2026-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E10\Buku Lap Keu Panin 0624.pdf,E10/E10_2024-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E10\Buku Lap Keu Panin 31 Mar 25.pdf,E10/E10_2025-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E10\Buku Lap Keu Panin 31 Maret 22.pdf,E10/E10_2022-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E10\Buku Lap Keu Panin Bank 30 Jun 2025.pdf,E10/E10_2025-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E10\Buku Lap Keu Panin Bank 30 Sep 25.pdf,E10/E10_2025-Q3_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E10\Buku Lap Keu PT Bank Panin Tbk 30 Sep 22.pdf,E10/E10_2022-Q3_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E10\Buku Lapkeu Panin Bank 30 Sep 26.pdf,E10/E10_2026-Q3_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E10\Buku Laporan Keuangan Konsolidasi 30 Juni 2022.pdf,E10/E10_2022-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E10\Buku LK Panin 30 Juni 2023.pdf,E10/E10_2023-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E10\Buku LK Panin 30 Sep 24.pdf,E10/E10_2024-Q3_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E10\Buku LK Panin 31 Mar 24 Revisi.pdf,E10/E10_2024-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E10\Buku LK Panin Bank 30.09.2023.pdf,E10/E10_2023-Q3_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E10\LK PT Bank Panin Tbk 31 Maret 2023.pdf,E10/E10_2023-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E10\PT Bank Pan Indonesia Tbk 31 Desember 2023.pdf,E10/E10_2023-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E10\Report Final PT Bank Pan Indonesia 31 Des 2025.pdf,E10/E10_2025-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E10\Report Final PT Bank Pan Indonesia 311224.pdf,E10/E10_2024-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E11\LapKeu Interim 31 Mar 2023- Bank Mega.pdf,E11/E11_2023-Q1_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E11\Lapkeu Interim PT BANK MEGA Tbk - 31 Maret 2022.pdf,E11/E11_2022-Q1_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E11\Lapkeu Interim Trw II-2022 PT Bank Mega Tbk.pdf,E11/E11_2022-Q2_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E11\Laporan Keuangan 30 Juni 2025.pdf,E11/E11_2025-Q2_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E11\Laporan Keuangan 31 Des 2023 Audited.pdf,E11/E11_2023-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E11\Laporan Keuangan 31 Des 2024 Audited.pdf,E11/E11_2024-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E11\Laporan Keuangan 31 Des 2025 Audited.pdf,E11/E11_2025-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E11\Laporan Keuangan 31 Maret 2025.pdf,E11/E11_2025-Q1_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E11\Laporan Keuangan Interim 30 Juni 2023-BM (final).pdf,E11/E11_2023-Q2_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E11\Laporan Keuangan Interim 30 Juni 2026.pdf,E11/E11_2026-Q2_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E11\Laporan Keuangan Interim 30 Sep 2023-BM (final).pdf,E11/E11_2023-Q3_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E11\Laporan Keuangan Interim 30 September 2025.pdf,E11/E11_2025-Q3_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E11\Laporan Keuangan Interim 30 September 2026.pdf,E11/E11_2026-Q3_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E11\Laporan Keuangan Interim 31 Maret 2026.pdf,E11/E11_2026-Q1_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E11\PT Bank Mega Tbk_ Billingual_31 Des 2022.pdf,E11/E11_2022-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E12\01 Triwulan Maret 2024 Gabungan.pdf,E12/E12_2024-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E12\01 Triwulan Maret 2025 Gabungan.pdf,E12/E12_2025-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E12\01 TW I Mar 2026 Gabungan.pdf,E12/E12_2026-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E12\01. Triwulan Maret 2022 Gabungan.pdf,E12/E12_2022-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E12\02 Publikasi TW II Juni 2026 Gabungan.pdf,E12/E12_2026-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E12\02 Triwulan Juni 2024 Gabungan.pdf,E12/E12_2024-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E12\02 Triwulan Juni 2025 Gabungan.pdf,E12/E12_2025-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E12\02. Triwulan Juni 2022 Gabungan.pdf,E12/E12_2022-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E12\03 Publikasi TW III September 2026 Gabungan.pdf,E12/E12_2026-Q3_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E12\03 Triwulan September 2024 Gabungan.pdf,E12/E12_2024-Q3_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E12\03 Triwulan September 2025 Gabungan.pdf,E12/E12_2025-Q3_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E12\03. Laporan Keuangan TW III Gabungan.pdf,E12/E12_2022-Q3_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E12\04 Triwulan Desember 2022 Gabungan.pdf,E12/E12_2022-FY_laporan-keuangan.pdf,ya,"laporan tahunan (label IDX: Audit); teks laporan auditor tidak terdeteksi, cek sekilas"
+2026-11-18T05:20:11,data\raw\E12\04 Triwulan Desember 2024 Gabungan.pdf,E12/E12_2024-FY_laporan-keuangan.pdf,ya,"laporan tahunan (label IDX: Audit); teks laporan auditor tidak terdeteksi, cek sekilas"
+2026-11-18T05:20:11,data\raw\E12\04 Triwulan Desember 2025 Konven dan Syariah Audited Revisi.pdf,E12/E12_2025-FY_laporan-keuangan.pdf,ya,"laporan tahunan (label IDX: Audit); teks laporan auditor tidak terdeteksi, cek sekilas"
+2026-11-18T05:20:11,data\raw\E12\04. Triwulan Desember 2023 Gabugan FIX.pdf,E12/E12_2023-FY_laporan-keuangan.pdf,ya,"laporan tahunan (label IDX: Audit); teks laporan auditor tidak terdeteksi, cek sekilas"
+2026-11-18T05:20:11,data\raw\E12\Triwulan Juni 2023 Gabungan.pdf,E12/E12_2023-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E12\Triwulan Maret 2023 Gabungan.pdf,E12/E12_2023-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E12\Triwulan September 2023 Gabungan.pdf,E12/E12_2023-Q3_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E13\A2_BJTM_300624_COM.pdf,E13/E13_2024-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E13\A2_Final Report_BJTM KONSOL_31Des2025 300326.pdf,E13/E13_2025-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E13\A2_LAI_BJTM_2023(1).pdf,E13/E13_2023-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E13\A2_LAI_BJTM_31Mar2025-1-1.pdf,E13/E13_2025-Q1_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan pada laporan interim
+2026-11-18T05:20:11,data\raw\E13\A2_Report_BJTM_31Des2022_v3.pdf,E13/E13_2022-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E13\BJTM Final _062023_new.pdf,E13/E13_2023-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E13\BJTM Final _092022.pdf,E13/E13_2022-Q3_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E13\BJTM Final _092023 update.pdf,E13/E13_2023-Q3_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E13\BJTM Final _300924 final3.pdf,E13/E13_2024-Q3_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E13\BJTM FINAL MARET 2022.pdf,E13/E13_2022-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E13\BJTM FINAL_30 JUNI 2026.pdf,E13/E13_2026-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E13\BJTM_LFR_202206.pdf,E13/E13_2022-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E13\bjtm_lfr_maret_2024_update.pdf,E13/E13_2024-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E13\laporan keuangan maret 2023.pdf,E13/E13_2023-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E13\LFR BJTM_30 SEPTEMBER 2026.pdf,E13/E13_2026-Q3_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E13\LFR_063025 FINAL-2.pdf,E13/E13_2025-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E13\LFR_202509.pdf,E13/E13_2025-Q3_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E13\LFR_BJTM_300426.pdf,E13/E13_2026-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E13\Report_BJTM_Des2024-1.pdf,E13/E13_2024-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E14\03.Bappepam.Maret 2024.pdf,E14/E14_2024-Q1_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E14\1. Laporan LKFS BTPN Syariah 31 Maret 2026.pdf,E14/E14_2026-Q1_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E14\1. LKFS 30 Sep 2025.pdf,E14/E14_2025-Q3_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E14\1. LKFS 31 Des 2024.pdf,E14/E14_2024-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E14\1. LKFS BTPS FY 2025 Audited.pdf,E14/E14_2025-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E14\1. LKFS BTPS Q3 2023.pdf,E14/E14_2023-Q3_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E14\BTPS - LKFS 30 Juni 2026.pdf,E14/E14_2026-Q2_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E14\BTPS LKFS TwII 2023.pdf,E14/E14_2023-Q2_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E14\BTPS LKFS_31032023.pdf,E14/E14_2023-Q1_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E14\Lamp 1. LKFS 30 Sep 2024.pdf,E14/E14_2024-Q3_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E14\Lamp1. LKFS BTPS 30 Juni 2024.pdf,E14/E14_2024-Q2_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E14\Lampiran 1 LKFS 30 Juni 2025.pdf,E14/E14_2025-Q2_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E14\Lampiran 1. LKFS 31 Mar 2025.pdf,E14/E14_2025-Q1_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E14\Laporan LKFS BTPS 31 Desember 2023.pdf,E14/E14_2023-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E14\Laporan LKFS Q3 2026.pdf,E14/E14_2026-Q3_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E14\LKFS 30 Juni 2022.pdf,E14/E14_2022-Q2_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E14\LKFS 30 Sept 2022.pdf,E14/E14_2022-Q3_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E14\LKFS BTPS 31 Des 2022.pdf,E14/E14_2022-FY_laporan-keuangan.pdf,ya,laporan auditor independen ditemukan di dokumen
+2026-11-18T05:20:11,data\raw\E14\LKFS.pdf,E14/E14_2022-Q1_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E15\FINAL_LKFS_Bank Jago_30 June 23_combined.pdf,E15/E15_2023-Q2_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E15\FINAL_LKFS_Bank Jago_300923_combined.pdf,E15/E15_2023-Q3_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E15\FINAL_LKFS_Bank Jago_31 Mar 23_Combined.pdf,E15/E15_2023-Q1_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E15\FINAL_LKFS_Jago_300924_combined.pdf,E15/E15_2024-Q3_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E15\FINAL_LKFS_PT Bank Jago Tbk_30 June 2025_combined.pdf,E15/E15_2025-Q2_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E15\FINAL_LKFS_PT Bank Jago Tbk_30 June 2026_combined.pdf,E15/E15_2026-Q2_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E15\FINAL_LKFS_PT Bank Jago Tbk_30 Sept 2026_combined.pdf,E15/E15_2026-Q3_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E15\FINAL_LKFS_PT Bank Jago Tbk_300624_combined.pdf,E15/E15_2024-Q2_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E15\FINAL_LKFS_PT Bank Jago Tbk_300925 (combined).pdf,E15/E15_2025-Q3_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E15\FINAL_LKFS_PT Bank Jago Tbk_31 Dec 25_combined.pdf,E15/E15_2025-FY_laporan-keuangan.pdf,ya,"laporan tahunan (label IDX: Audit); teks laporan auditor tidak terdeteksi, cek sekilas"
+2026-11-18T05:20:11,data\raw\E15\FINAL_LKFS_PT Bank Jago Tbk_31 Mar 2026_combined.pdf,E15/E15_2026-Q1_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E15\FINAL_LKFS_PT Bank Jago Tbk_31 March 2025_combined.pdf,E15/E15_2025-Q1_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E15\LK_Bank_Jago_Q1_Maret_2024_Final_ID.pdf,E15/E15_2024-Q1_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E15\LKFS Bank Jago 1222_final.pdf,E15/E15_2022-FY_laporan-keuangan.pdf,ya,"laporan tahunan (label IDX: Audit); teks laporan auditor tidak terdeteksi, cek sekilas"
+2026-11-18T05:20:11,data\raw\E15\LKFS Bank Jago 30 June 2022 Combined.pdf,E15/E15_2022-Q2_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E15\LKFS Bank Jago 30 September 2022 Combined.pdf,E15/E15_2022-Q3_laporan-keuangan.pdf,tidak,tertulis tidak diaudit/unaudited di halaman judul
+2026-11-18T05:20:11,data\raw\E15\LKFS Bank Jago 31 Mar 2022 Combined.pdf,E15/E15_2022-Q1_laporan-keuangan.pdf,tidak,interim tanpa laporan auditor atau reviu terdeteksi
+2026-11-18T05:20:11,data\raw\E15\PT Bank Jago Tbk 1224_financial statements.pdf,E15/E15_2024-FY_laporan-keuangan.pdf,ya,"laporan tahunan (label IDX: Audit); teks laporan auditor tidak terdeteksi, cek sekilas"
