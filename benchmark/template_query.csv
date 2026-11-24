@@ -1,0 +1,4 @@
+query_id,tipe,entity_id,klaim,as_of,periode_dokumen,evidence_doc_id,halaman,nilai_di_dokumen,satuan,verdict,catatan
+B-001,satu_langkah,E01,"Laba bersih BCA tahun 2024 yang diatribusikan ke pemilik entitas induk adalah Rp54,8 triliun.",2025-03-31,2024-FY,ISI,ISI,54.836.305,jutaan Rp,SUPPORTED,contoh; cek halaman dan tanggal rilis sebelum dipakai
+B-002,konflik,E01,"Laba bersih BCA tahun 2024 sebesar Rp54.851.274 juta merupakan laba yang diatribusikan ke induk.",2025-03-31,2024-FY,ISI,ISI,54.836.305,jutaan Rp,REFUTED,contoh; 54.851.274 adalah laba total
+B-003,unanswerable,E30,"Laba bersih Amman Mineral kuartal I 2022 naik dibanding 2021.",2022-06-30,-,-,-,-,-,NOT_ENOUGH_EVIDENCE,contoh; E30 belum IPO
